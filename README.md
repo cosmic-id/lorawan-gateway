@@ -7,8 +7,10 @@ This repository contains Getting Started of some LoRaWAN Gateways sold in Cosmic
 
 ## Step by Step
 
-1. Register an Account in [The Things Network](https://au1.cloud.thethings.network/).
-![TTN Account Registration](assets/ttn-registration.png "TTN Account Registration")
-2. Open the RAK Gateway 7268 Web Interface
-![RAK Login Page](/assets/rak-login.png)
-3. Get Dev EUI of the LoRaWAN Gateway through Web Interface or through the backplate of the RAK. ![RAK Device EUI](/assets/rak-deveui.png)
+1. Register an Account in [The Things Network](https://au1.cloud.thethings.network/). ![TTN Account Registration](assets/ttn-registration.png "TTN Account Registration")
+2. Open the RAK Gateway 7268 Web Interface. ![RAK Login Page](/assets/rak-login.png)
+3. Get Dev EUI of the LoRaWAN Gateway through Web Interface or through the backplate of the RAK. 
+* Dev EUI stated on the Web Interface. ![RAK Device EUI](/assets/rak-deveui-web.png) 
+* Dev EUI printed on the Backplate of RAK LoRaWAN Gateway. ![RAK Device EUI](/assets/rak-deveui-backplate.jpg)
+4. Register your LoRaWAN Gateway to the The Things Network. Please input the Gateway EUI as stated on the step 3. ![Register Gateway](/assets/register-gateway.png)
+
