@@ -13,4 +13,8 @@ This repository contains Getting Started of some LoRaWAN Gateways sold in Cosmic
 * Dev EUI stated on the Web Interface. ![RAK Device EUI](/assets/rak-deveui-web.png) 
 * Dev EUI printed on the Backplate of RAK LoRaWAN Gateway. ![RAK Device EUI](/assets/rak-deveui-backplate.jpg)
 4. Register your LoRaWAN Gateway to the The Things Network. Please input the Gateway EUI as stated on the step 3. ![Register Gateway](/assets/register-gateway.png)
+5. The next detailed form will appear. Please fill the parameters as Follows: 
+* Gateway Name: Pick your own name
+* Frequency Plan : Asia 920-923 MHz (AS923 Group 2) with only default channels
+![Register Gateway](/assets/ttn-register-gateway.png)
 
