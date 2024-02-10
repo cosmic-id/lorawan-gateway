@@ -1,4 +1,4 @@
-# Connect LoRaWAN GAteway RAK 7268 to The Things Network (TTN) 
+# Connect LoRaWAN Gateway RAK 7268 to The Things Network (TTN) 
 This repository contains Getting Started of some LoRaWAN Gateways sold in Cosmic.id Store.
 
 ## Compatible Gateways
