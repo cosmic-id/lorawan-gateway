@@ -1,4 +1,4 @@
-# lorawan-gateway
+# Connect LoRaWAN GAteway RAK 7268 to The Things Network (TTN) 
 This repository contains Getting Started of some LoRaWAN Gateways sold in Cosmic.id Store.
 
 ## Compatible Gateways
@@ -24,7 +24,9 @@ The default access is
 ![Register Gateway](/assets/ttn-register-gateway.png)
 6. Setup the LoRa Server pointing of RAK LoRaWAN Gateway. The Server Address refers to the TTN Network Server you regist the gateway, in this example it is pointing to **au1.cloud.thethings.network**.  
 ![LoRaWAN Network Server](/assets/rak-network-server.png)  
-7. Connect the LoRaWAN Gateway to the Internet through LAN Ethernet or WiFi. If everything is OK, then the dashboard of the TTN Gateway will appear Online.
+7. Set the LoRa Channel Plan to your Regional Parameter. In this example, we use **AS923-2**.   
+![LoRaWAN Channel Plan](/assets/rak-channel-plan.png) 
+8. Connect the LoRaWAN Gateway to the Internet through LAN Ethernet or WiFi. If everything is OK, then the dashboard of the TTN Gateway will appear Online.
 ![Online Gateway](/assets/ttn-gateway-dashboard.png)
 
 Congratulations! You have successfully connect your LoRaWAN Gateway to the LoRaWAN Network Server The Things Network.
